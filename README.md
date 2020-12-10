@@ -1,2 +1,2 @@
 # cpp_1.1_Armazenamentos
- ExercÃ­cios de programaÃ§Ã£o em c++ nÃ­vel iniciante
+ Exemplo simples de armazenamento na memória com instruções sequenciais.

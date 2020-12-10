@@ -1,4 +1,3 @@
-//Exemplo simples de armazenamento na memória com instruções sequenciais.
 #include <iostream>
 #include <locale>
 
