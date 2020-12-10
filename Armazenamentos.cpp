@@ -21,5 +21,5 @@ int main() //comando de início do programa
     D = A + C; //atribui à variável D a soma do valor de A com o valor atual de C
     cout << endl << "Valor de D: " << D;//exibe na tela o valor de D (atualizado) com frase explicativa
 
-    return 0;
+    return 0; //comando de fim do programa
 }
